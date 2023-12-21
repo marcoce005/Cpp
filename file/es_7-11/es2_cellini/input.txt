@@ -1,0 +1,4 @@
+Pippo va al mercato
+compra 3 pere,
+7 banane e 15 avocadi.
+Quanto e' lungo l'equatore?

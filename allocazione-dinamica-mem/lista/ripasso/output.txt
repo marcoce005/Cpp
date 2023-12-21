@@ -1,0 +1,3 @@
+pippo -> 56	Voto errato
+pluto -> 23	Esame passato
+pfoaf -> 13	Esame NON passato

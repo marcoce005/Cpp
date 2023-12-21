@@ -1,0 +1,4 @@
+Pippo va al mercato				Caratteri = 19
+compra 3 pere,				Caratteri = 14
+7 banane e 15 avocadi.				Caratteri = 22
+Quanto e' lungo l'equatore?				Caratteri = 27

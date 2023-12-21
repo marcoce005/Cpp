@@ -1,0 +1,28 @@
+LISTA
+
+In informatica, una Lista è una struttura dati astratta e dinamica 
+(la memoria usata non è necessariamente fisicamente contigua).
+L'accesso a un elemento della struttura avviene direttamente 
+solo al primo elemento della sequenza; per accedere a un qualunque elemento, 
+occorre scandire sequenzialmente tutti gli elementi che lo precedono; 
+è una struttura dati dinamica poiché può cambiare di dimensione 
+grazie alle operazioni di inserimento ed eliminazione di elementi al contrario degli array.
+
+CODA
+
+Con il termine coda indichiamo una lista di lunghezza variabile, 
+in cui tutti gli inserimenti vengono effettuati dopo l’ultimo elemento.
+Ecco  perchè si parla di metodo F.I.F.O, che sta per First In First Out.
+
+PILA
+
+Con il termine pila (oppure stack in inglese) si indica una lista di lunghezza variabile 
+nella quale sia gli inserimenti dei dati sia le estrazioni avvengono solo ad  un estremo.
+Il metodo con cui un calcolatore accede ad una pila di dati  viene detto 
+metodo L.I.F.O., cioè Last In First Out.
+
+VETTORE vs LISTA
+
+Ad esempio la lista memorizza gli elementi in una posizione di memoria non contigua 
+ovvero ne utilizza internamente una doppiamente collegata, mentre il vettore
+memorizza quegli elementi in posizioni contigue come un array cioè uno schieramento. 

@@ -1,0 +1,18 @@
+CLASSE:
+    Una classe, nella programmazione orientata agli oggetti (OOP), 
+    è un costrutto di un linguaggio di programmazione usato come modello per creare oggetti.
+
+    E’ lo schema di base dal quale è possibile creare i singoli oggetti.
+
+OGGETTO:
+    Nella programmazione OOP l’oggetto è dunque un’istanza di una classe.
+
+    Tra classe e oggetto vi è la stessa relazione che sussiste fra un tipo e una
+    variabile.
+
+METODI:
+    i metodi non sono altro che le funzioni che possono modificare il valore degli attributi.
+
+    – costruttori/distruttori che servono per creare/distruggere l’oggetto in memoria.
+
+    – modificatori (getter/setter) che servono per a potere leggere/scrivere negli attributi privati.

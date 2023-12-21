@@ -1,0 +1,5 @@
+123 Pippo Pluto 9 ammesso
+45 Gigi Calcagno 5 non-ammesso
+563423 Topolino Paperino 8 ammesso
+5678 Gino Formaggino 6 ammesso
+453 Lillo Greg 2 non-ammesso
